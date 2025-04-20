@@ -1,0 +1,13 @@
+Art Students:
+ArtFirst0 ArtLast0, GPA: 3, Level: Undergraduate, Enrolled: 2021 Fall, Graduation: 2025 Spring, Emphasis: Art Studio
+ArtFirst1 ArtLast1, GPA: 3.2, Level: Undergraduate, Enrolled: 2021 Fall, Graduation: 2025 Spring, Emphasis: Art History
+ArtFirst2 ArtLast2, GPA: 3.4, Level: Undergraduate, Enrolled: 2021 Fall, Graduation: 2025 Spring, Emphasis: Art Education
+ArtFirst3 ArtLast3, GPA: 3.6, Level: Undergraduate, Enrolled: 2021 Fall, Graduation: 2025 Spring, Emphasis: Art Studio
+ArtFirst4 ArtLast4, GPA: 3.8, Level: Undergraduate, Enrolled: 2021 Fall, Graduation: 2025 Spring, Emphasis: Art History
+
+Physics Students:
+PhysicsFirst0 PhysicsLast0, GPA: 3.5, Level: Graduate, Enrolled: 2022 Spring, Graduation: 2026 Fall, Concentration: Biophysics
+PhysicsFirst1 PhysicsLast1, GPA: 3.6, Level: Graduate, Enrolled: 2022 Spring, Graduation: 2026 Fall, Concentration: Earth and Planetary Sciences
+PhysicsFirst2 PhysicsLast2, GPA: 3.7, Level: Graduate, Enrolled: 2022 Spring, Graduation: 2026 Fall, Concentration: Biophysics
+PhysicsFirst3 PhysicsLast3, GPA: 3.8, Level: Graduate, Enrolled: 2022 Spring, Graduation: 2026 Fall, Concentration: Earth and Planetary Sciences
+PhysicsFirst4 PhysicsLast4, GPA: 3.9, Level: Graduate, Enrolled: 2022 Spring, Graduation: 2026 Fall, Concentration: Biophysics
